@@ -92,6 +92,11 @@ p {
     margin-right: 25px;
 }
 
+/* Only for Online Reputation Management image */
+#float-right {
+    float: right;
+}
+
 /* All h2 in main */
 .content h2 {
     margin-bottom: 20px;
@@ -143,6 +148,6 @@ p {
     text-align: center;
 }
 
-.footer h3 {
+.footer h4 {
     font-size: 20px;
 }
