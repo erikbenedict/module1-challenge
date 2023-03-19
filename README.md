@@ -6,6 +6,7 @@ I am refactoring a marketing agency's website to make it more accessible to ensu
 
 ## Usage
 [Click here to see the fully deployed website](https://erikbenedict.github.io/module1-challenge/)
+<br>
 ![Alt text](/assets/images/screenshot.png.png?raw=true "Horiseon")
 
 ## License
