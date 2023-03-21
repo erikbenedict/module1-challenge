@@ -8,19 +8,19 @@ body {
     background-color: #d9dcd6;
 }
 
-/* All anchor tags */
+/* * All anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* all paragraphs */
+/* * All paragraphs */
 p {
     font-size: 16px;
 }
 
 
-/* --!! HEADER AND NAVIGATION !!-- */
+/* !! HEADER AND NAVIGATION !! */
 
 .header {
     padding: 20px;
@@ -29,18 +29,18 @@ p {
     color: #ffffff;
 }
 
-/* Agency's Name */
+/* * Agency's Name */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Styles the "seo" in h1 "Horiseon" */
+/* * Styles the "seo" in h1 "Horiseon" */
 .seo {
     color: #97989b;
 }
 
-/* Navigation Bar */
+/* * Navigation Bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -56,7 +56,7 @@ p {
 }
 
 
-/* Hero image of website */
+/* * Hero image of website */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,7 +67,7 @@ p {
 }
 
 
-/* --!! MAIN !!-- */
+/* !! MAIN !! */
 
 .content {
     width: 75%;
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-/* All 3 section in main */
+/* * All 3 section in main */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -85,19 +85,19 @@ p {
     color: #ffffff;
 }
 
-/* All images in main */
+/* * All images in main */
 .content img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
 }
 
-/* Only for Online Reputation Management image */
+/* * Only for Online Reputation Management image */
 #float-right {
     float: right;
 }
 
-/* All h2 in main */
+/* * All h2 in main */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -107,7 +107,7 @@ p {
 /* !! ASIDE !! */
 
 
-/* Sidebar */
+/* * Sidebar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,19 +119,19 @@ p {
     background-color: #2589bd;
 }
 
-/* All sections in aside */
+/* * All sections in aside */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* All h3 in aside */
+/* * All h3 in aside */
 .benefits h3 {
         margin-bottom: 10px;
         text-align: center;
     }
 
-/* All images in aside */
+/* * All images in aside */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -139,7 +139,7 @@ p {
 }
 
 
-/* --!! FOOTER !!-- */
+/* !! FOOTER !! */
 
 .footer {
     padding: 30px;
